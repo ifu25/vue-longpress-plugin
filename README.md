@@ -72,3 +72,5 @@ methods: {
 长按元素时，可以为该元素添加激活时的样式，只需要添加一个全局的样式 `longtap-active` 即可，若有与元素本身的样式重复的，应添加 `!important`。
 
 > 该样式在点击时也会应用。
+
+![demo](pic/demo.gif)
